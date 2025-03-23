@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742755498 source:c:\users\jaoao\desktop\ee\c\cadastro_clientes_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
